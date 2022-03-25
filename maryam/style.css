@@ -1,0 +1,97 @@
+
+main {
+    width: 600px;
+}
+h1.google{
+    font-size: 100px;
+    text-align: center;
+}
+.firstg{
+    color: blue;
+}
+.firsto{
+    color: red;
+}
+.secondo{
+    color: yellow;
+}
+.secondg{
+    color: blue;
+}
+.firstl{
+    color: green;
+}  
+.seconde{
+    color: red;
+}
+.search-box {
+    border: 1px solid grey;
+    border-radius: 20px;
+    width: 600px;
+    height: 40px;
+    font-size: 20px;
+    align-self: auto;
+    position: absolute;
+    right: 0%;
+    left: 0%;
+    margin: auto;
+    padding-left: 12px;
+}
+.search-input{ 
+    padding-left: 12px;
+}
+.button{
+    margin-top: 80px;
+    margin-left: 300px;
+    margin-right: 200px;
+    
+    
+}
+.btn{
+    width: 140px;
+    height: 30px;
+    border: 1px solid gray;
+    border-radius: 4px;
+    margin: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: 500;
+    background: transparent;
+    background-color:rgb(213, 216, 216) 
+}
+.btn:hover{
+    color: rgb(239, 245, 247);
+    text-emphasis-color: black;
+}
+.lang-section{
+    text-align: center;
+    margin: 30px;
+}
+.lang a{
+    padding:10px;
+    text-decoration: none;
+}
+.lang:hover{
+    text-decoration: underline;
+}
+footer{
+    background-color: rgb(247, 244, 244);
+    margin-top: 300px;
+    color: black;
+}
+.footer-section a{
+    padding: 10px;
+    color:gray;
+    text-decoration: none;
+}
+ .first{
+     padding-left: 200px;
+}
+.second {
+    padding-left: 420px;
+}
+.footer-section:hover{
+    text-decoration: underline;
+}
+
+
